@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="344px" height="473px" viewBox="0 0 344 473" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+<svg width="346px" height="473px" viewBox="0 0 346 473" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
     <title>parallels</title>
     <desc>Created with Sketch.</desc>
-    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="HOME" transform="translate(-1096.000000, -330.000000)">
-            <g id="parallels" transform="translate(1096.000000, 330.000000)">
-                <polygon id="Rectangle" fill="#E6E6E6" points="166.656442 179 266.656442 179 181.571484 349 81 349"></polygon>
-                <polygon id="Rectangle-Copy-10" fill="#E6E6E6" points="352.656442 254 452.656442 254 367.571484 424 267 424"></polygon>
-                <polygon id="Rectangle-Copy-6" fill="#15263D" points="347.055586 32.93038 447.055586 32.93038 319.571484 295 219 295"></polygon>
-                <polygon id="Rectangle-Copy-8" fill="#191919" points="216.656442 303 316.656442 303 231.571484 473 131 473"></polygon>
-                <polygon id="Rectangle-Copy" fill="#F7F7F7" points="85.6564418 121 185.656442 121 100.571484 291 8.52651283e-14 291"></polygon>
-                <polygon id="Rectangle-Copy-4" fill="#E6E6E6" points="255.656442 0 355.656442 0 270.571484 170 170 170"></polygon>
+    <g id="Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tarento-One" transform="translate(-1094.000000, -327.000000)">
+            <g id="parallels" transform="translate(1094.000000, 327.000000)">
+                <polygon id="Rectangle" fill="#E6E6E6" opacity="0.372000558" points="166.656442 179 266.656442 179 181.571484 349 81 349"></polygon>
+                <polygon id="Rectangle-Copy-10" fill="#E6E6E6" opacity="0.177852493" points="352.656442 254 452.656442 254 367.571484 424 267 424"></polygon>
+                <polygon id="Rectangle-Copy-6" fill="#F1F1F1" points="347.055586 32.93038 447.055586 32.93038 319.571484 295 219 295"></polygon>
+                <polygon id="Rectangle-Copy-8" fill="#8A8484" points="216.656442 303 316.656442 303 231.571484 473 131 473"></polygon>
+                <polygon id="Rectangle-Copy" fill="#F7F7F7" opacity="0.130254836" points="85.6564418 121 185.656442 121 100.571484 291 8.52651283e-14 291"></polygon>
+                <polygon id="Rectangle-Copy-4" fill="#E6E6E6" opacity="0.372000558" points="255.656442 0 355.656442 0 270.571484 170 170 170"></polygon>
             </g>
         </g>
     </g>

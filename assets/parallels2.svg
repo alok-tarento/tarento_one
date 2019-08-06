@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="405px" height="352px" viewBox="0 0 405 352" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
     <title>parallels2</title>
     <desc>Created with Sketch.</desc>
-    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="HOME" transform="translate(-1035.000000, -2720.000000)">
-            <g id="parallels2" transform="translate(1035.000000, 2720.000000)">
-                <polygon id="Rectangle-Copy-15" fill="#E6E6E6" points="166.656442 58 266.656442 58 181.571484 228 81 228"></polygon>
-                <polygon id="Rectangle-Copy-16" fill="#15263D" opacity="0.0500837054" points="304.656442 4 404.656442 4 319.571484 174 219 174"></polygon>
-                <polygon id="Rectangle-Copy-20" fill="#191919" opacity="0.0500837054" points="216.656442 182 316.656442 182 231.571484 352 131 352"></polygon>
-                <polygon id="Rectangle-Copy-21" fill="#DBDBDB" opacity="0.554129464" points="85.6564418 0 185.656442 0 100.571484 170 8.52651283e-14 170"></polygon>
+    <g id="Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout-Elements" transform="translate(-1035.000000, -1626.000000)">
+            <g id="Web/Story-2" transform="translate(0.000000, 1351.000000)">
+                <g id="parallels2" transform="translate(1035.000000, 275.000000)">
+                    <polygon id="Rectangle-Copy-15" fill="#E6E6E6" points="166.656442 58 266.656442 58 181.571484 228 81 228"></polygon>
+                    <polygon id="Rectangle-Copy-16" fill="#15263D" opacity="0.0500837054" points="304.656442 4 404.656442 4 319.571484 174 219 174"></polygon>
+                    <polygon id="Rectangle-Copy-20" fill="#191919" opacity="0.0500837054" points="216.656442 182 316.656442 182 231.571484 352 131 352"></polygon>
+                    <polygon id="Rectangle-Copy-21" fill="#DBDBDB" opacity="0.554129464" points="85.6564418 0 185.656442 0 100.571484 170 8.52651283e-14 170"></polygon>
+                </g>
             </g>
         </g>
     </g>
